@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.module.beautifulsoup4"
+       name="beautifulsoup4"
+       version="4.4.1"
+       provider-name="Rui Castro">
+  <requires>
+  </requires>
+  <extension point="xbmc.python.module" library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary>Beautiful Soup sits atop an HTML or XML parser, providing Pythonic idioms for iterating, searching, and modifying the parse tree.</summary>
+    <description>Packed for KODI from https://pypi.python.org/pypi/beautifulsoup4</description>
+    <license>MIT</license>
+    <platform>all</platform>
+    <source>https://github.com/rui-castro/kodi-beautifulsoup4</source>
+  </extension>
+</addon>
